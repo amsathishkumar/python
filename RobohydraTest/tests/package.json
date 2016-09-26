@@ -1,0 +1,19 @@
+{
+  "name": "tests",
+  "version": "0.0.1",
+  "description": "sathish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test Started\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  
+  "dependencies": {
+    "qs":"4.0.0",
+    "request": "^2.37.0",
+    "robohydra": "^0.4.0",
+    "url": "~0.10.1",
+    "log4js": "~0.6.16"
+ }
+ }
