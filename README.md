@@ -1,6 +1,7 @@
 # python
 ###RobohydraTest
-```	- cd /RobohydraTest/tests 
+```sh
+	- cd /RobohydraTest/tests 
     - npm install
     - py.test component	
 ```
