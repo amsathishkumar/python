@@ -49,7 +49,7 @@ Please find the Daily Connectivity Report: <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ""
     #msg.attach(fileMsg)
  
  
-    server = smtplib.SMTP('121.244.253.29')
+    server = smtplib.SMTP('xx.xx.xx.xx')
     text = msg.as_string()
     server.sendmail(fromaddr, toaddr, text)
     server.quit()
